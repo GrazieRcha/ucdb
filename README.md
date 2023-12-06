@@ -1,6 +1,6 @@
-# UCDB - Universidade Católica Dom Bosco
+# Sistema de cadastro UCDB - Universidade Católica Dom Bosco
 
-Bem-vindo ao repositório UCDB, uma implementação em Java que representa a Universidade Católica Dom Bosco (UCDB). Este projeto incorpora conceitos de Programação Orientada a Objetos (POO) para modelar a UCDB, incluindo informações sobre endereço, ano de fundação, cursos e professores.
+Bem-vindo ao repositório UCDB, uma implementação em Java que representa a Universidade Católica Dom Bosco. Este projeto incorpora conceitos de Programação Orientada a Objetos (POO) para modelar a UCDB, incluindo informações sobre endereço, ano de fundação, cursos e professores.
 
 ## Descrição da Classe UCDB
 
