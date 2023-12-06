@@ -30,14 +30,3 @@ A classe UCDB possui métodos para cadastrar cursos e professores, realizar cons
 - **Curso Mais Antigo:**
   - `cursoMaisAntigo()`: Retorna o curso mais antigo entre todos os cursos cadastrados.
 
-## Utilização
-
-Para utilizar a classe UCDB em seu projeto Java, siga o exemplo abaixo:
-
-```java
-// Exemplo de utilização da classe UCDB
-UCDB ucdb = new UCDB("Endereco da UCDB", 1970);
-ucdb.cadastrarCurso(curso1);
-ucdb.cadastrarProfessor(professor1);
-
-// Realize outras operações conforme a necessidade do seu projeto
